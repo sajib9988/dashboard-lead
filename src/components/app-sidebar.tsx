@@ -23,14 +23,15 @@ const data = {
   navMain: [
     {
       title: "Add Service",
-      url: "/add-service",
+      url: "/dashboard/add-service",
+
       icon: PlusCircle,
       isActive: true,
       items: [],
     },
     {
       title: "Add Team Member",
-      url: "/add-team-member",
+      url: "/dashboard/add-team-member",
       icon: Users,
       items: [],
     },
